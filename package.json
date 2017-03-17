@@ -1,0 +1,12 @@
+{
+  "name": "ishan-test",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "server": "npm run start"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
