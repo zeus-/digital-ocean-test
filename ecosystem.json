@@ -9,7 +9,7 @@
       "host": "138.197.204.133",
       "ref": "origin/master",
       "repo": "git@github.com:zeus-/digital-ocean-test.git",
-      "path": "/shared/current",
+      "path": "/home/ishan-machine/shared/current",
       "pre-deploy-local" : "echo 'This is a local executed command'",
       "post-deploy" : "npm install && pm2 startOrRestart ecosystem.json --env production"
     }
