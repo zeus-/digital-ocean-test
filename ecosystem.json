@@ -5,7 +5,7 @@
   "deploy": {
     "staging": {},
     "production": {
-      "user": "root",
+      "user": "ishan-machine",
       "host": "138.197.204.133",
       "ref": "origin/master",
       "repo": "git@github.com:zeus-/digital-ocean-test.git",
