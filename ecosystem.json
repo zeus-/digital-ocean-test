@@ -1,6 +1,7 @@
 {
   "apps": [{
-    "name": "ishan"
+    "name": "ishan",
+    "script": "server.js"
   }],
   "deploy": {
     "staging": {},
